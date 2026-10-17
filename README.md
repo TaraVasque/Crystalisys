@@ -79,3 +79,7 @@ The menu has SAVE, inns save for you. The save file is `save.dat` in the app's d
 - Frost enemies melt to fire; the dead hate holy magic.
 - Check shop SELL tabs and your bag after changing classes.
 - Keep a TENT in reserve for dungeon runs.
+
+## look here
+
+i havent finished V1 of the game so once im done it will appear here and the text here will dissapear ;3
